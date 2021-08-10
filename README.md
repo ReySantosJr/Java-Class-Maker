@@ -5,3 +5,6 @@ The user has the option to make a final, public, or abstract class
 constructor and getters & setters can be made.
 
 A JAR file is provided.
+
+**8/5/21 - uploaded to GitHub**
+- Source code and jar file is uploaded
